@@ -1,0 +1,54 @@
+
+body{
+    background-color: black;
+    }
+
+    p{
+        font-family : Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: normal;
+        font-size: 50px;
+        color: white;
+        text-align: center;
+    }
+    .anchor-tag {
+        text-align: center;
+        color: aquamarine;
+        font-size :16px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .anchor-tag a {
+        text-decoration: none;
+        color: aquamarine;
+    }
+    .video-section{
+        text-align: center;
+    }
+
+    .subheading > p{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 300;
+        font-size: 42px;
+    }
+    .subheading1 > p{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: gray;
+        font-size: 21px;
+    }
+
+    .camp-img{
+      display : flex;
+      justify-content: center;
+    }
+
+    .phone-img{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .footer > span{
+        color : grey;
+        font-size: large;
+        text-align: right;
+        display: block;
+    } 
+
